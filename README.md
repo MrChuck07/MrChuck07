@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrChuck07
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...BCA
+- 🌱 I’m a BCA Graduate ...
 - 💞️ I’m looking to collaborate on ...GSOC preparations
 - 📫 How to reach me ...9664769402
 
